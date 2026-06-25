@@ -1,42 +1,53 @@
-👋 Hi, I'm Romil
 
-A passionate developer focused on building clean, scalable, and production‑ready software.
-I enjoy working across backend systems, cloud services, and automation — always aiming to write code that is simple, reliable, and easy to maintain.
+🌟 Romil — Cloud‑Native Backend Developer
+<p align="center">
+Passionate about building clean, scalable, cloud‑ready backend systems using modern tools and best practices.
+</p>
+
+🔧 Tech Stack
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-Containerized-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</p>
 
 🚀 Featured Projects
-
 1️⃣ Cloud Tasks API
-A microservice for managing tasks with full CRUD support and a clean backend architecture.
+A production‑ready task management microservice.
 
-Highlights:
+CRUD operations
 
-FastAPI backend
-
-PostgreSQL persistence
+PostgreSQL + SQLAlchemy
 
 Dockerized environment
 
-Modular service design
+Clean architecture
 
+👉 Learn more
 
 2️⃣ Cloud Storage API
-A secure and scalable file‑storage service with cloud integration.
+A secure and scalable file‑storage backend.
 
-Highlights:
-
-File uploads & metadata
+File uploads
 
 Presigned URLs
 
 Azure Blob Storage integration
 
-Separation of API + storage layers
+Modular storage layer
 
+👉 Learn more
 
 3️⃣ Auth & User Management
 A complete authentication and identity service.
-
-Highlights:
 
 JWT authentication
 
@@ -46,29 +57,18 @@ Role‑based access
 
 Secure password hashing
 
-🧰 Tech Stack
-Languages: Python
+👉 Learn more
 
-Frameworks: FastAPI
+📘 About Me
+Backend‑focused developer
 
-Databases: PostgreSQL
+Learning cloud engineering & microservices
 
-Cloud: Azure
+Interested in scalable API design
 
-Containers: Docker
+Enjoys building real‑world, production‑style projects
 
-Tools: Git, GitHub Actions
-
-📌 What I’m Learning
-Cloud‑native backend development
-
-Authentication & security patterns
-
-Scalable microservice design
-
-DevOps fundamentals
-
-📫 Connect With Me
-GitHub: github.com/rmp34
-
-Open to collaborating on backend, cloud, and automation projects
+📫 Connect
+If you want to collaborate on backend or cloud projects, feel free to reach out.
+rmp34README.md
+Displaying rmp34README.md. 
