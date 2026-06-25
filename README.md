@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently aiming to land a role in backend engineering.
+I am currently aiming to land a role in backend engineering. I am currently working on the Cloud Tasks API project, which is a production-ready tasks API with CRUD operations, routers, models, schemas, and Dockerized environment.
