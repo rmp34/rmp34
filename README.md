@@ -4,6 +4,7 @@ A passionate developer focused on building clean, scalable, and production‑rea
 I enjoy working across backend systems, cloud services, and automation — always aiming to write code that is simple, reliable, and easy to maintain.
 
 🚀 Featured Projects
+
 1️⃣ Cloud Tasks API
 A microservice for managing tasks with full CRUD support and a clean backend architecture.
 
@@ -17,6 +18,7 @@ Dockerized environment
 
 Modular service design
 
+
 2️⃣ Cloud Storage API
 A secure and scalable file‑storage service with cloud integration.
 
@@ -29,6 +31,7 @@ Presigned URLs
 Azure Blob Storage integration
 
 Separation of API + storage layers
+
 
 3️⃣ Auth & User Management
 A complete authentication and identity service.
