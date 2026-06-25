@@ -1,19 +1,70 @@
-## Hi there, I am Romil Patel
+👋 Hi, I'm Romil
+A passionate developer focused on building clean, scalable, and production‑ready software.
+I enjoy working across backend systems, cloud services, and automation — always aiming to write code that is simple, reliable, and easy to maintain.
 
-<!--
-**rmp34/rmp34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+1️⃣ Cloud Tasks API
+A microservice for managing tasks with full CRUD support and a clean backend architecture.
 
-Here are some ideas to get you started:
+Highlights:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FastAPI backend
 
-I am currently aiming to land a role in backend engineering. 
-I am currently working on the Cloud Tasks API project, which is a production-ready tasks API with CRUD operations, routers, models, schemas, and Dockerized environment.
+PostgreSQL persistence
+
+Dockerized environment
+
+Modular service design
+
+2️⃣ Cloud Storage API
+A secure and scalable file‑storage service with cloud integration.
+
+Highlights:
+
+File uploads & metadata
+
+Presigned URLs
+
+Azure Blob Storage integration
+
+Separation of API + storage layers
+
+3️⃣ Auth & User Management
+A complete authentication and identity service.
+
+Highlights:
+
+JWT authentication
+
+OAuth2 password flow
+
+Role‑based access
+
+Secure password hashing
+
+🧰 Tech Stack
+Languages: Python
+
+Frameworks: FastAPI
+
+Databases: PostgreSQL
+
+Cloud: Azure
+
+Containers: Docker
+
+Tools: Git, GitHub Actions
+
+📌 What I’m Learning
+Cloud‑native backend development
+
+Authentication & security patterns
+
+Scalable microservice design
+
+DevOps fundamentals
+
+📫 Connect With Me
+GitHub: github.com/rmp34
+
+Open to collaborating on backend, cloud, and automation projects
